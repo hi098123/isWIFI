@@ -9,9 +9,9 @@ isWIFI();
 
 ## return
 - -1: undefined or can't find
-- 0: cellular(mobile data)
-- 1: saveData=true (cellular or wifi or PC)	saveData is browser setting
-- 2: saveData=false (cellular or wifi or PC)	not all browser
+- 0: cellular (mobile data)
+- 1: saveData=true (cellular or wifi or PC)	saveData is true (browser setting)
+- 2: saveData=false (cellular or wifi or PC)
 - 3: wifi
 
 ## use
