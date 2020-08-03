@@ -20,3 +20,6 @@ mode | option
 ---: | ---:
 stirct | 3 (wifi only)
 general | 3,2
+
+## 한국어 문서 (ko-kr)
+https://hi098123.tistory.com/322
